@@ -42,12 +42,12 @@
     <repository>
         <id>deployment</id>
         <name>deployment</name>
-        <url>http://192.168.122.179:8081/nexus/content/repositories/vasurepo/</url>
+        <url>http://192.168.122.179:8081/nexus/content/repositories/room/</url>
     </repository>
     <snapshotRepository>
         <id>deployment</id>
         <name>deployment</name>
-        <url>http://192.168.122.179:8081/nexus/content/repositories/vasusnap/</url>
+        <url>http://192.168.122.179:8081/nexus/content/repositories/room-snap/</url>
     </snapshotRepository>
 </distributionManagement>
 
